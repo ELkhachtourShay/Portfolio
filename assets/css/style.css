@@ -357,9 +357,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h2 {
-  color: #f7f1f1;
+  color: #0c0909;
   margin-bottom: 30px;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 400;
   text-transform: uppercase;
 }
